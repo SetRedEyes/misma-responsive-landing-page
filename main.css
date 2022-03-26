@@ -766,13 +766,13 @@ footer > .main-wrapper {
   background: #161c35;
 }
 
-.copyright {
+a.copyright {
   text-decoration: none;
   outline: none;
   color: #000;
 }
 
-.copyright:hover {
+a.copyright:hover {
   color: #00d5c3;
 }
 
