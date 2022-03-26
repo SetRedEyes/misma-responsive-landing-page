@@ -874,7 +874,7 @@ a.copyright:hover {
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 735px) {
   header > .main-wrapper {
     flex-wrap: wrap;
     justify-content: center;
